@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="129.0" y="272.0">models.Writer</node>
+    <node x="0.0" y="198.0">models.Address</node>
+    <node x="36.5" y="124.0">KosoSher</node>
+    <node x="135.0" y="198.0">models.Borrow</node>
+    <node x="215.0" y="0.0">models.Member</node>
+    <node x="0.0" y="272.0">Library</node>
+    <node x="0.0" y="0.0">models.Book</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="KosoSher" target="models.Book">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="37.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="0.0" y="0.0" />
+  <SelectedNodes>
+    <node>KosoSher</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
